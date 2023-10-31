@@ -1,5 +1,5 @@
-# projects
+# Projects
 <br>
-<h3>Topic</h3>-InteractiveQuiz
+<div><h3>Topics:</h3><h4></h4></h3></div>
 <br>
-<h3>Author</h3>-Nitish Kumar
+<div><h3>Author</h3><h4>Nitish Kumar</h4></div>
