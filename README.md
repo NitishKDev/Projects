@@ -1,5 +1,4 @@
-# C-projects
-Projects in C 
+# projects
 <br>
 <h3>Topic</h3>-InteractiveQuiz
 <br>
